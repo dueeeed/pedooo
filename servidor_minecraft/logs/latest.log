@@ -489,3 +489,75 @@
 [24Jun2025 03:52:14.805] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
 [24Jun2025 03:52:24.105] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
 [24Jun2025 03:52:32.255] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
+[24Jun2025 03:52:54.606] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
+[24Jun2025 03:53:12.055] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
+[24Jun2025 03:53:19.314] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6124d9a2[id=<null>,name=JESUS_CN,properties={},legacy=false] (/127.195.61.16:45299) lost connection: Disconnected
+[24Jun2025 03:53:30.155] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
+[24Jun2025 03:53:30.157] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
+[24Jun2025 03:53:50.876] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
+[24Jun2025 03:53:50.878] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
+[24Jun2025 03:54:18.455] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
+[24Jun2025 03:54:33.005] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
+[24Jun2025 03:54:44.554] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
+[24Jun2025 03:54:44.556] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
+[24Jun2025 03:55:03.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lauzun: Set the time to 1000]
+[24Jun2025 03:55:08.954] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
+[24Jun2025 03:55:14.204] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
+[24Jun2025 03:55:22.154] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
+[24Jun2025 03:55:27.406] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
+[24Jun2025 03:55:30.408] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lauzun lost connection: Disconnected
+[24Jun2025 03:55:30.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lauzun left the game
+[24Jun2025 03:55:30.408] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Lauzun
+[24Jun2025 03:55:40.966] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lauzun[/127.226.50.44:42707] logged in with entity id 1676 at (17.825367312296006, 70.48763374484135, -0.4096193820004836)
+[24Jun2025 03:55:40.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lauzun joined the game
+[24Jun2025 03:55:41.289] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Lauzun (18)
+[24Jun2025 03:55:41.289] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Lauzun
+[24Jun2025 03:55:42.543] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5
+[24Jun2025 03:55:43.541] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5
+[24Jun2025 03:55:43.541] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lauzun (821d3e5c-37f7-3dc2-bfed-5cf4637bf0d5) successfully connected to voice chat
+[24Jun2025 03:56:03.355] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
+[24Jun2025 03:56:03.356] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
+[24Jun2025 03:56:17.155] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
+[24Jun2025 03:56:17.157] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
+[24Jun2025 03:56:39.554] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
+[24Jun2025 03:56:39.556] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
+[24Jun2025 03:57:09.855] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
+[24Jun2025 03:57:21.404] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
+[24Jun2025 03:57:21.405] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
+[24Jun2025 03:57:49.161] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thesmiler:smiler_1 but it was marked as removed already
+[24Jun2025 03:57:49.204] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
+[24Jun2025 03:57:49.205] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
+[24Jun2025 03:58:01.304] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
+[24Jun2025 03:58:07.555] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
+[24Jun2025 03:58:19.805] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity asphyxiation:cantbreathepassive but it was marked as removed already
+[24Jun2025 03:58:21.118] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thesmiler:smiler_1 but it was marked as removed already
+[24Jun2025 03:58:21.554] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
+[24Jun2025 03:58:29.755] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
+[24Jun2025 03:58:40.157] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
+[24Jun2025 03:58:52.255] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
+[24Jun2025 03:59:06.254] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
+[24Jun2025 03:59:15.604] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
+[24Jun2025 03:59:15.606] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
+[24Jun2025 03:59:15.608] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
+[24Jun2025 03:59:15.609] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
+[24Jun2025 03:59:55.854] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
+[24Jun2025 03:59:55.857] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
+[24Jun2025 04:00:07.655] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
+[24Jun2025 04:00:19.554] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
+[24Jun2025 04:00:34.654] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
+[24Jun2025 04:00:34.656] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
+[24Jun2025 04:00:48.554] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
+[24Jun2025 04:01:09.054] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
+[24Jun2025 04:01:24.555] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
+[24Jun2025 04:01:34.906] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
+[24Jun2025 04:01:34.907] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
+[24Jun2025 04:01:50.955] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
+[24Jun2025 04:01:56.204] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
+[24Jun2025 04:01:56.205] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
+[24Jun2025 04:02:09.604] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
+[24Jun2025 04:02:32.053] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity asphyxiation:cantbreathepassive but it was marked as removed already
+[24Jun2025 04:02:36.455] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
+[24Jun2025 04:02:49.304] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
+[24Jun2025 04:02:56.654] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
+[24Jun2025 04:02:56.657] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
+[24Jun2025 04:02:56.658] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_horde_entity:zombie_horde but it was marked as removed already
