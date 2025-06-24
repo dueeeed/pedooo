@@ -1,0 +1,21 @@
+
+[Chances]
+	BlackoutChance = 0.0
+	VisionHourChance = 5.0
+
+["General but random thingys"]
+	DropSomeDiscs = false
+	BreakrandomTorch = false
+	DisableDisableSleep = false
+	RandomSniffs = false
+	BloodhourChance = 0.0
+	BloodHourShadersLevel = 0.0
+	BloodhourStuffs = false
+
+[NightHungerIA]
+	CrouchIdle = false
+	Crouch = false
+	CrawlIdle = false
+	Crawl = false
+	Falling = false
+

@@ -1,0 +1,42 @@
+
+["Smiler Spawns"]
+	#Minimum ticks until the Smiler can spawn.
+	"Minimum Spawn Cooldown" = 6000.0
+	#Maximum ticks until the Smiler can spawn.
+	"Maximum Spawn Cooldown" = 12000.0
+	#Minimum ticks until the Smiler can spawn at your spawnpoint.
+	"Minimum Bed Spawn Cooldown" = 10000.0
+	#Maximum ticks until the Smiler can spawn at your spawnpoint.
+	"Maximum Bed Spawn Cooldown" = 28000.0
+	"Spawn Sound" = true
+
+["Smiler Events"]
+	#Minimum ticks until you get a chat message.
+	"Minimum Message Cooldown" = 40000.0
+	#Maximum ticks until you get a chat message.
+	"Maximum Message Cooldown" = 52000.0
+	#Minimum ticks until a ''weird event'' happens to you.
+	"Minimum Weird Event Cooldown" = 16000.0
+	#Maximum ticks until a ''weird event'' happens to you.
+	"Maximum Weird Event Cooldown" = 32000.0
+
+["Smiler Timers"]
+	#Minimum ticks until the Smiler stops chasing.
+	"Minimum Chase Length" = 300.0
+	#Maximum ticks until the Smiler stops chasing.
+	"Maximum Chase Length" = 800.0
+	#Minimum ticks until the Smiler(5) starts to chase you,
+	"Minimum Chase Wait Time" = 900.0
+	#Minimum ticks until the Smiler(5) starts to chase you,
+	"Maximum Chase Wait Time" = 1600.0
+
+["Smiler Chances"]
+	#Chance for the the Smiler to attack you instead of jumpscaring you from your spawnpoint
+	"Bed Spawn Attack Chance" = 5.0
+	#Chance for the Smiler to jumpscare you instead of attacking if you approach it
+	"Smiler Jumpscare Chance" = 3.0
+
+["Smiler Behaviours"]
+	"Drowning Players" = true
+	"Pillaring Upwards" = false
+
